@@ -62,10 +62,13 @@ The script will output:
 
 Customizing the Script
 
-You can modify the script to:
+# You can modify the script to:
 
     Change the range of years for predictions.
     Adjust the visualization or add additional features.
     Experiment with different models or data.
 
-License
+# Output
+![sea_tide_bar_graph](https://github.com/user-attachments/assets/79dc77cf-9b2d-477e-a7db-1998626091a2)
+
+
