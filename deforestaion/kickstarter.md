@@ -6,7 +6,9 @@ Reqirments :
             sklearn
             numpy 
             matplotlib
-
+            pycountry_convert
+            
 command to use : python deforestation.py (but make sure to have your csv file in the same directory)
 
-output:![deforestaion](https://github.com/user-attachments/assets/73561565-1070-416a-8c50-abd6b036e6f4)
+output:
+![deforestaion](https://github.com/user-attachments/assets/73561565-1070-416a-8c50-abd6b036e6f4)
