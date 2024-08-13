@@ -9,4 +9,5 @@ Reqirments :
 
 command to use : python glacier.py (but make sure to have your glacier.csv file in the same directory)
 
-output:![glacier](https://github.com/user-attachments/assets/97865c1f-b3c6-47a1-9626-b62bc5ecd8ab)
+output:
+![glacier](https://github.com/user-attachments/assets/97865c1f-b3c6-47a1-9626-b62bc5ecd8ab)
