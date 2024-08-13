@@ -10,4 +10,5 @@ Reqirments :
             
 command to use : python sea-level.py (but make sure to have your sea.csv file in the same directory)
 
-output:  ![sea_tide_bar_graph](https://github.com/user-attachments/assets/ce855a3e-9b0d-4547-a0cd-b42cf504263d)
+output:  
+![sea_tide_bar_graph](https://github.com/user-attachments/assets/ce855a3e-9b0d-4547-a0cd-b42cf504263d)
